@@ -1,0 +1,22 @@
+﻿  TTSGrafkomH.cpp
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(13,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(17,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(27,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(32,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(44,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(53,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(41,14): warning C4101: 'column': unreferenced local variable
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(41,9): warning C4101: 'row': unreferenced local variable
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(41,6): warning C4101: 'x': unreferenced local variable
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(68,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(77,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(63,14): warning C4101: 'column': unreferenced local variable
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(63,9): warning C4101: 'row': unreferenced local variable
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(63,6): warning C4101: 'x': unreferenced local variable
+C:\Users\Alfriyanis\source\repos\TTSGrafkomH\TTSGrafkomH\TTSGrafkomH.cpp(86,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  3 of 11 functions (27.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TTSGrafkomH.vcxproj -> C:\Users\Alfriyanis\source\repos\TTSGrafkomH\x64\Release\TTSGrafkomH.exe
